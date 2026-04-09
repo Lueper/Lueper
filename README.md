@@ -8,11 +8,11 @@
   - *Spring Boot* 기반 HTTP 서버 (Java)
 - Engine
   - *Unreal & Unity*
-### Implementaion
+#### Implementaion
   - 결제 라이브러리 (모바일/스팀/에픽/PG)
   - 전투 시뮬레이션 서버
   - MMORPG 게임 컨텐츠
-### Research
+#### Research
   - 커널 최적화 중심의 Registered I/O 서버
 
 #### Skill
