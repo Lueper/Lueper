@@ -2,16 +2,18 @@
 
 #### Interest
 - Server
-  - C++ : `Boost.Asio` 기반 TCP 서버
-  - C++ : `IOCP` & `RIO` 기반 TCP 서버
-  - C# : `ASP.NET Core` 기반 HTTP & WebSocket 서버
-  - Java : `Spring Boot` 기반 HTTP 서버
+  - *Boost.Asio* 기반 TCP 서버 (C++)
+  - *IOCP & RIO* 기반 TCP 서버 (C++)
+  - *ASP.NET Core* 기반 HTTP & WebSocket 서버 (C#)
+  - *Spring Boot* 기반 HTTP 서버 (Java)
 - Engine
-  - `Unreal` & `Unity`
-- Develop
-  - 네트워크 동기화
-  - 전투 서버
-  - 결제
+  - *Unreal & Unity*
+### Implementaion
+  - 결제 라이브러리 (모바일/스팀/에픽/PG)
+  - 전투 시뮬레이션 서버
+  - MMORPG 게임 컨텐츠
+### Research
+  - 커널 최적화 중심의 Registered I/O 서버
 
 #### Skill
 - Language  
